@@ -1,8 +1,9 @@
 # CGPA-PREDICTOR_
 To check the Placement Tier wherein the student lies !
 
-# include <stdio.h>
-            void main() {
+
+    # include <stdio.h>
+     void main() {
     float s1,s2,s3,s4,var1,var2,cgpa;
     int c1,c2,c3,c4,skills;
     printf("\t\t\t WELCOME TO THE PLACEMENT PREDICTER\n\n");
